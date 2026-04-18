@@ -78,8 +78,8 @@ Place your files into the `assets/` folder with these exact filenames:
 🧠 Have fun building your own style! ![Image](https://github.com/user-attachments/assets/a0ba6f75-bcab-4560-9671-e3e87a6e2c06)
 
 ## 🌐 Community & Support
-- 💬 Join our Discord: [discord.gg/motiongoats](https://discord.gg/motiongoats)
-- ☕ Like the project? Buy me a coffee BTC: bc1qzu5sdzydwh3sulsd25rs57rpn4czyrctm4neph
+- 💬 Join our Discord: [discord.gg/VOLTERMC](http://discord.gg/6TDkXsVSBe)
+- ☕ Like the project? Just Give Me Feedback! _.snowwly - discord
 - ⭐ If you enjoy this, consider leaving a star on the repo!
 
 ![Image](https://github.com/user-attachments/assets/feed39df-8b60-46d5-9bf8-b12a5bb70395)
