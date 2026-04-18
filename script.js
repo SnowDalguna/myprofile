@@ -236,8 +236,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   const bioMessages = [
-    "Fu*k Guns.lol & Fakecrime.bio got banned too often, so I created my own.",
-    "\"Hello, World!\""
+    "Yooh! I Created my OwnZ KingDom👑",
+    "\"Hey Guys👋, Im Snowly AKA gdys🍁\""
   ];
   let bioText = '';
   let bioIndex = 0;
